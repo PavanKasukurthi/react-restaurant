@@ -1,0 +1,14 @@
+.app__header {
+  background-color: #111;
+}
+
+.app__header-h1 {
+  color: #fff;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  line-height: 50px;
+  font-size: 50px;
+}
+
+.app__header-img {
+}

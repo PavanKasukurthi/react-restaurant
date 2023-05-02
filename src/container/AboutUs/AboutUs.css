@@ -1,0 +1,15 @@
+.app__aboutus-content_about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom__button {
+  margin: 2rem 0;
+}
+
+.p__opensans{
+    text-align: center;
+    /* margin: 0 7rem; */
+}

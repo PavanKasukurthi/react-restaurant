@@ -27,9 +27,7 @@ const SpecialMenu = () => (
         </div>
       </div>
 
-      <div className="app__specialMenu-menu_line">
-        <hr />
-      </div>
+      <div className="app__specialMenu-menu_line"></div>
 
       <div className="app__specialMenu-menu_cocktails  flex__center">
         <p className="app__specialMenu-menu_heading">Cocktails</p>
@@ -46,7 +44,7 @@ const SpecialMenu = () => (
       </div>
     </div>
 
-    <div style={{ marginTop: 15 }}>
+    <div>
       <button type="button" className="custom__button">
         View More
       </button>

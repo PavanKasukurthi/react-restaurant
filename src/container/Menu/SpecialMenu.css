@@ -76,14 +76,16 @@
 }
 
 .app__specialMenu-menu_line {
-  width: 410px;
+  /* width: 400px; */
+  padding-left: 200px;
+  padding-right: 200px;
   margin: 0 2rem;
 }
 
-.app__specialMenu-menu_line img {
+/* .app__specialMenu-menu_line img {
   width: 100%;
   height: auto;
-}
+} */
 
 .app__specialMenu_menu_items {
   display: flex;
